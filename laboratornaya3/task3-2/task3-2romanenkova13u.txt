@@ -1,0 +1,60 @@
+Script started on 2022-10-13 19:03:01+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="58" LINES="21"]
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ sudo chvt 1
+[?2004l[sudo] пароль для romanenkova13: 
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ tty
+[?2004l/dev/pts/1
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ ()w)h)i)l)e) )t)r)u)e);) )d)o) )e)c)h)o) )-)n) )L)o)l)a) )R)o)m)a)n)e)n)k)o)v)a) )[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)[1P)o)l)a) )>)>) )l)o)g);) )s)l)e)e)p) )1);) ) )[1P)d)o)n)e)
+[?2004l^Z
+[1]+  Остановлен    ( while true; do
+    echo -n Lola >> log; sleep 1;
+done )
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ bg
+[?2004l[1]+ ( while true; do
+    echo -n Lola >> log; sleep 1;
+done ) &
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ jobs
+[?2004l[1]+  Запущен          ( while true; do
+    echo -n Lola >> log; sleep 1;
+done ) &
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ Ajobs[2Pbg(while true; do echo -n Lola >> log; sleep 1; done)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctty[K(while true; do echo -n Lola >> log; sleep 1; done)[C[1P[1P[1P[1P[1@h[1@a[1@h[1@a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C& [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K&
+[?2004l[2] 6955
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ jobs
+[?2004l[1]-  Запущен          ( while true; do
+    echo -n Lola >> log; sleep 1;
+done ) &
+[2]+  Запущен          ( while true; do
+    echo -n haha >> log; sleep 1;
+done ) &
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ jobs -l
+[?2004l[1]-  6521 Запущен          ( while true; do
+    echo -n Lola >> log; sleep 1;
+done ) &
+[2]+  6955 Запущен          ( while true; do
+    echo -n haha >> log; sleep 1;
+done ) &
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ renice 10 -p 1410
+[?2004lrenice: не удалось получить приоритет для 1410 (process ID): Нет такого процесса
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ renice 10 -p 1410[K[K[K[K6955
+[?2004l6955 (process ID) старый приоритет 0, новый приоритет 10
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ kill %2
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ jobs
+[?2004l[1]-  Запущен          ( while true; do
+    echo -n Lola >> log; sleep 1;
+done ) &
+[2]+  Завершено      ( while true; do
+    echo -n haha >> log; sleep 1;
+done )
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ jobs
+[?2004l[1]+  Запущен          ( while true; do
+    echo -n Lola >> log; sleep 1;
+done ) &
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ fg
+[?2004l( while true; do
+    echo -n Lola >> log; sleep 1;
+done )
+^C
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ jobs
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2022-10-13 19:14:48+03:00 [COMMAND_EXIT_CODE="0"]

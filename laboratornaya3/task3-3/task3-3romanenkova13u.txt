@@ -1,0 +1,2211 @@
+Script started on 2022-10-13 19:47:19+03:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="58" LINES="24"]
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ sudo find -empty >> Lav3[K[Kb3.[K/romanenk/ [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C. txt
+[?2004l[sudo] пароль для romanenkova13: 
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ cat R[KLab3.[K/romanenk.txt
+[?2004l./.local/share/sounds
+./.local/share/applications
+./.local/share/gnome-settings-daemon/input-sources-converted
+./.local/share/ibus-table
+./.local/share/icc
+./.local/share/gnome-shell/gnome-overrides-migrated
+./.local/share/backgrounds
+./.local/share/Trash/files/romanenkova/laboratornaya1/Task8/winrar
+./.local/share/Trash/files/romanenkova/laboratornaya1/Task8/winrar2
+./.local/share/Trash/files/romanenkova/laboratornaya1/dir2
+./.local/share/Trash/files/romanenkova/laboratornaya1/romanenkova13@192.168.56.103
+./.local/share/Trash/files/romanenkova/laboratornaya1/winrar
+./.local/share/Trash/files/romanenkova/laboratornaya1/dir1/file3.txt
+./.local/share/Trash/files/romanenkova/laboratornaya1/dir1/dir2/file1.txt
+./.local/share/Trash/files/romanenkova/laboratornaya1/dir1/dir2/dir3/file2.txt
+./.local/share/Trash/files/romanenkova/laboratornaya1/dir1/file2.txt
+./.local/share/Trash/files/romanenkova/laboratornaya1/winrar2
+./.local/share/Trash/expunged
+./.local/share/evolution/addressbook/system/photos
+./.local/share/evolution/addressbook/trash
+./.local/share/evolution/memos/trash
+./.local/share/evolution/calendar/trash
+./.local/share/evolution/mail/trash
+./.local/share/evolution/tasks/trash
+./.local/share/nautilus/scripts
+./.local/share/nautilus/tracker2-migration-complete
+./.local/share/nautilus/tags/meta.db-wal
+./.local/share/nano
+./.local/share/flatpak/db
+./timelog3-3romanenkova13u.txt
+./task3-3romanenkova13u.txt
+./Шаблоны
+./Изображения
+./.mozilla/extensions
+./Общедоступные
+./.sudo_as_admin_successful
+./.cache/thunderbird/btnpu3zo.default
+./.cache/thunderbird/g41z9yqd.default-release/safebrowsing/google4
+./.cache/thunderbird/g41z9yqd.default-release/cache2/doomed
+./.cache/thunderbird/g41z9yqd.default-release/.startup-incomplete
+./.cache/mesa_shader_cache/ab/34df067368573c0e4d7da53d2ec775d57213aa
+./.cache/mesa_shader_cache/cc/1fc84c3d46243460b56656037541fc01628915
+./.cache/mesa_shader_cache/4e/eb504047924c97ea76f1d3955ef97563a3b7fa
+./.cache/mesa_shader_cache/63/6f4bc8a2db34e07b33a1861394801cbca3b721
+./.cache/mesa_shader_cache/6a/90768138792a94022e03e840861a6993aa1429
+./.cache/mesa_shader_cache/1d/9d4935ef9dd4fd5f97d2ec41254a2e5494d4fe
+./.cache/mesa_shader_cache/58/202c72b5673155bdae86d0ef00f0ac0358d8f0
+./.cache/mesa_shader_cache/b8/d850fb72599abaf7293c2cc4e437f7374a5cb0
+./.cache/mesa_shader_cache/73/817fddc8709eec2554efba042f3050be07731b
+./.cache/mesa_shader_cache/e7/b69db2102afb084eb5a8c1d3908ee8683451e3
+./.cache/mesa_shader_cache/81/929cf42bb39be3a4dc84f0a06fdca1b727e207
+./.cache/mesa_shader_cache/97/5fad182038b2ed91bdaa2153c431dfea1cb7c5
+./.cache/mesa_shader_cache/0c/f28f4f4a6e62673f9e94e0c49fd213bceb1dc8
+./.cache/mesa_shader_cache/f9/c37376beb56e65a6bd0f2987e335d2f79275dd
+./.cache/mesa_shader_cache/3c/32c8a3b9d5b0ad65caf4223ae44bc3e7b8585d
+./.cache/mesa_shader_cache/32/64e26e45a81ca6c5c6cf7489d7c296a8f7dd2c
+./.cache/mesa_shader_cache/7e/4f03d0167e40f4eb4840fc8b0294820be3d489
+./.cache/mesa_shader_cache/7e/1f363ea047d92e4273bd57d16a5b8a541408fe
+./.cache/mesa_shader_cache/07/e777ac713d330102ba9549f3589256d98863e3
+./.cache/ibus-table
+./.cache/tracker3/files/errors
+./.cache/tracker3/files/.meta.isrunning
+./.cache/evolution/addressbook/trash
+./.cache/evolution/memos/trash
+./.cache/evolution/calendar/trash
+./.cache/evolution/sources/trash
+./.cache/evolution/mail/trash
+./.cache/evolution/tasks/trash
+./.cache/ubuntu-report/ubuntu.22.04
+./.cache/motd.legal-displayed
+./Музыка
+./Видео
+./.config/update-notifier
+./.config/procps
+./.config/enchant/ru_RU.exc
+./.config/enchant/ru_RU.dic
+./.config/libreoffice/4/user/uno_packages/cache/uno_packages
+./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+./.config/libreoffice/4/user/psprint
+./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+./.config/libreoffice/4/user/extensions/tmp/extensions
+./.config/gtk-4.0
+./.config/goa-1.0
+./.config/.gsd-keyboard.settings-ported
+./Рабочий стол
+./.thunderbird/Crash Reports/events
+./.thunderbird/Pending Pings
+./.thunderbird/g41z9yqd.default-release/crashes/events
+./.thunderbird/g41z9yqd.default-release/browser-extension-data/bing@search.mozilla.org
+./.thunderbird/g41z9yqd.default-release/browser-extension-data/amazondotcom@search.mozilla.org
+./.thunderbird/g41z9yqd.default-release/minidumps
+./.thunderbird/g41z9yqd.default-release/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.files
+./.thunderbird/g41z9yqd.default-release/.parentlock
+./.thunderbird/g41z9yqd.default-release/security_state
+./Загрузки
+./Документы
+./snap/snapd-desktop-integration/14/.local/share/icons
+./snap/snapd-desktop-integration/14/.local/share/glib-2.0/schemas
+./snap/firefox/1943/.local/share/icons
+./snap/firefox/1943/.local/share/glib-2.0/schemas
+./snap/firefox/1883/.local/share/icons
+./snap/firefox/1883/.local/share/glib-2.0/schemas
+./snap/firefox/common/.mozilla/extensions
+./snap/firefox/common/.mozilla/firefox/Crash Reports/events
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/crashes/events
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/datareporting/glean/tmp
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/datareporting/glean/pending_pings
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/minidumps
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/default/moz-extension+++0eb6b90f-1d9d-40d2-903f-525df2b81b19^userContextId=4294967295/idb/3647222921wleabcEoxlt-eengsairo.files
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/temporary
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/permanent/chrome/idb/3561288849sdhlie.files
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/permanent/chrome/idb/2918063365piupsah.files
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.files
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/permanent/chrome/idb/2823318777ntouromlalnodry--naod.files
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.files
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/permanent/chrome/idb/1451318868ntouromlalnodry--epcr.files
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/saved-telemetry-pings
+./snap/firefox/common/.mozilla/firefox/bpundubs.default/.parentlock
+./snap/firefox/common/.mozilla/firefox/Pending Pings
+./snap/firefox/common/.cache/mozilla/firefox/bpundubs.default/thumbnails
+./Romanenkova/Lab2/Task2.4.3/temp
+./Romanenkova/Lab2/Task2.4.2/message.txt
+./Romanenkova/Lab2/Task2.3/appends
+./Romanenkova/Lab2/Task2.3/records
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ cat Lab3/romanenk.txt[16@sudo find -empty >>[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@~[1@ [C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1@t[1@y[1@p[1@e[C[1@ [1@f[C[1@ [1@-[1@n[1@a[1@m[1@e[C[1@ [1@"[1@.* >> Lab3/romanenk.txt [A]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" >> Lab3/romanenk.txt[A]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2.txt[A]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ sudo find ~ -type f -name ".*" >> Lab3/romanenk2.txt[A]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [29Pcat Lab3/romanenk.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2.txt
+[?2004l/home/romanenkova13/.bash_history
+/home/romanenkova13/.gitconfig
+/home/romanenkova13/.sudo_as_admin_successful
+/home/romanenkova13/.cache/thunderbird/g41z9yqd.default-release/.startup-incomplete
+/home/romanenkova13/.cache/tracker3/files/.meta.isrunning
+/home/romanenkova13/.pam_environment
+/home/romanenkova13/.viminfo
+/home/romanenkova13/.config/.gsd-keyboard.settings-ported
+/home/romanenkova13/.bashrc
+/home/romanenkova13/.profile
+/home/romanenkova13/.thunderbird/g41z9yqd.default-release/storage/permanent/chrome/.metadata-v2
+/home/romanenkova13/.thunderbird/g41z9yqd.default-release/.parentlock
+/home/romanenkova13/snap/snapd-desktop-integration/14/.last_revision
+/home/romanenkova13/snap/firefox/1943/.last_revision
+/home/romanenkova13/snap/firefox/1883/.last_revision
+/home/romanenkova13/snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/default/https+++github.com/.metadata-v2
+/home/romanenkova13/snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/default/https+++www.google.com/.metadata-v2
+/home/romanenkova13/snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/default/moz-extension+++0eb6b90f-1d9d-40d2-903f-525df2b81b19^userContextId=4294967295/.metadata-v2
+/home/romanenkova13/snap/firefox/common/.mozilla/firefox/bpundubs.default/storage/permanent/chrome/.metadata-v2
+/home/romanenkova13/snap/firefox/common/.mozilla/firefox/bpundubs.default/.parentlock
+/home/romanenkova13/.bash_logout
+/home/romanenkova13/Romanenkova/Lab2/Task2.4.1/.bashrc
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ [K]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ sleep 200 &
+[?2004l[1] 8946
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ sleep 2500 &
+[?2004l[2] 8947
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ jobs
+[?2004l[1]-  Запущен          sleep 200 &
+[2]+  Запущен          sleep 2500 &
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ kill %2
+[?2004l[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ jobs
+[?2004l[1]-  Запущен          sleep 200 &
+[2]+  Завершено      sleep 2500
+[?2004h]0;romanenkova13@ubuntu: ~[01;32mromanenkova13@ubuntu[00m:[01;34m~[00m$ exec ls -R /etc
+[?2004l/etc:
+acpi			hosts		     profile
+adduser.conf		hosts.allow	     profile.d
+alsa			hosts.deny	     protocols
+alternatives		hp		     pulse
+anacrontab		ifplugd		     python3
+apg.conf		init		     python3.10
+apm			init.d		     rc0.d
+apparmor		initramfs-tools      rc1.d
+apparmor.d		inputrc		     rc2.d
+apport			insserv.conf.d	     rc3.d
+appstream.conf		ipp-usb		     rc4.d
+apt			iproute2	     rc5.d
+avahi			issue		     rc6.d
+bash.bashrc		issue.net	     rcS.d
+bash_completion		kernel		     resolv.conf
+bash_completion.d	kernel-img.conf      rmt
+bindresvport.blacklist	kerneloops.conf      rpc
+binfmt.d		ldap		     rsyslog.conf
+bluetooth		ld.so.cache	     rsyslog.d
+brlapi.key		ld.so.conf	     rygel.conf
+brltty			ld.so.conf.d	     sane.d
+brltty.conf		legal		     security
+ca-certificates		libao.conf	     selinux
+ca-certificates.conf	libaudit.conf	     sensors3.conf
+chatscripts		libblockdev	     sensors.d
+console-setup		libnl-3		     services
+cracklib		libpaper.d	     sgml
+cron.d			libreoffice	     shadow
+cron.daily		locale.alias	     shadow-
+cron.hourly		locale.gen	     shells
+cron.monthly		localtime	     skel
+crontab			logcheck	     snmp
+cron.weekly		login.defs	     speech-dispatcher
+cups			logrotate.conf	     ssh
+cupshelpers		logrotate.d	     ssl
+dbus-1			lsb-release	     subgid
+dconf			machine-id	     subgid-
+debconf.conf		machine-info	     subuid
+debian_version		magic		     subuid-
+default			magic.mime	     sudo.conf
+deluser.conf		mailcap		     sudoers
+depmod.d		mailcap.order	     sudoers.d
+dhcp			manpath.config	     sudo_logsrvd.conf
+dictionaries-common	mime.types	     sysctl.conf
+dpkg			mke2fs.conf	     sysctl.d
+e2scrub.conf		ModemManager	     systemd
+emacs			modprobe.d	     terminfo
+environment		modules		     thermald
+environment.d		modules-load.d	     thunderbird
+ethertypes		mtab		     timezone
+firefox			nanorc		     tmpfiles.d
+fonts			netconfig	     ubuntu-advantage
+fprintd.conf		netplan		     ucf.conf
+fstab			network		     udev
+fuse.conf		networkd-dispatcher  udisks2
+fwupd			NetworkManager	     ufw
+gai.conf		networks	     update-manager
+gdb			newt		     update-motd.d
+gdm3			nftables.conf	     update-notifier
+geoclue			nsswitch.conf	     UPower
+ghostscript		openvpn		     usb_modeswitch.conf
+glvnd			opt		     usb_modeswitch.d
+gnome			os-release	     vdpau_wrapper.cfg
+groff			PackageKit	     vim
+group			pam.conf	     vmware-tools
+group-			pam.d		     vtrgb
+grub.d			papersize	     vulkan
+gshadow			passwd		     wgetrc
+gshadow-		passwd-		     wpa_supplicant
+gss			pcmcia		     X11
+gtk-2.0			perl		     xattr.conf
+gtk-3.0			pki		     xdg
+hdparm.conf		pm		     xml
+host.conf		pnm2ppa.conf	     zsh_command_not_found
+hostid			polkit-1
+hostname		ppp
+
+/etc/acpi:
+asus-keyboard-backlight.sh  events	     tosh-wireless.sh
+asus-wireless.sh	    ibm-wireless.sh  undock.sh
+
+/etc/acpi/events:
+asus-keyboard-backlight-down  asus-wireless-off  ibm-wireless	thinkpad-cmos
+asus-keyboard-backlight-up    asus-wireless-on	 lenovo-undock	tosh-wireless
+
+/etc/alsa:
+conf.d
+
+/etc/alsa/conf.d:
+10-samplerate.conf    50-oss.conf	  98-usb-stream.conf
+10-speexrate.conf     50-pulseaudio.conf  99-pulseaudio-default.conf.example
+50-arcam-av-ctl.conf  60-upmix.conf	  99-pulse.conf
+50-jack.conf	      60-vdownmix.conf
+
+/etc/alternatives:
+arptables			 lzdiff		    rvim
+arptables-restore		 lzdiff.1.gz	    telnet
+arptables-save			 lzegrep	    telnet.1.gz
+awk				 lzegrep.1.gz	    text.plymouth
+awk.1.gz			 lzfgrep	    unlzma
+builtins.7.gz			 lzfgrep.1.gz	    unlzma.1.gz
+cpp				 lzgrep		    vi
+default.plymouth		 lzgrep.1.gz	    vi.1.gz
+ebtables			 lzless		    vi.da.1.gz
+ebtables-restore		 lzless.1.gz	    vi.de.1.gz
+ebtables-save			 lzma		    view
+editor				 lzma.1.gz	    view.1.gz
+editor.1.gz			 lzmore		    view.da.1.gz
+ex				 lzmore.1.gz	    view.de.1.gz
+ex.1.gz				 mt		    view.fr.1.gz
+ex.da.1.gz			 mt.1.gz	    view.it.1.gz
+ex.de.1.gz			 nawk		    view.ja.1.gz
+ex.fr.1.gz			 nawk.1.gz	    view.pl.1.gz
+ex.it.1.gz			 nc		    view.ru.1.gz
+ex.ja.1.gz			 nc.1.gz	    vi.fr.1.gz
+ex.pl.1.gz			 netcat		    vi.it.1.gz
+ex.ru.1.gz			 netcat.1.gz	    vi.ja.1.gz
+ftp				 newt-palette	    vim
+ftp.1.gz			 open		    vimdiff
+futurize			 open.1.gz	    vi.pl.1.gz
+gdm-smartcard			 pager		    vi.ru.1.gz
+gdm-theme.gresource		 pager.1.gz	    vtrgb
+gnome-text-editor		 pasteurize	    which
+gnome-text-editor.1.gz		 pico		    which.1.gz
+gstreamer-codec-install		 pico.1.gz	    which.de1.gz
+infobrowser			 pinentry	    which.es1.gz
+infobrowser.1.gz		 pinentry.1.gz	    which.fr1.gz
+ip6tables			 pinentry-x11	    which.it1.gz
+ip6tables-restore		 pinentry-x11.1.gz  which.ja1.gz
+ip6tables-save			 rcp		    which.pl1.gz
+iptables			 rcp.1.gz	    which.sl1.gz
+iptables-restore		 README		    write
+iptables-save			 rlogin		    write.1.gz
+libblas.so.3-x86_64-linux-gnu	 rlogin.1.gz	    x-cursor-theme
+liblapack.so.3-x86_64-linux-gnu  rmt		    x-session-manager
+lzcat				 rmt.8.gz	    x-session-manager.1.gz
+lzcat.1.gz			 rsh		    x-terminal-emulator
+lzcmp				 rsh.1.gz	    x-terminal-emulator.1.gz
+lzcmp.1.gz			 rview
+
+/etc/apm:
+resume.d  scripts.d  suspend.d
+
+/etc/apm/resume.d:
+20alsa
+
+/etc/apm/scripts.d:
+alsa
+
+/etc/apm/suspend.d:
+80alsa
+
+/etc/apparmor:
+init  parser.conf
+
+/etc/apparmor/init:
+network-interface-security
+
+/etc/apparmor/init/network-interface-security:
+sbin.dhclient
+
+/etc/apparmor.d:
+abi		 usr.bin.tcpdump
+abstractions	 usr.lib.libreoffice.program.oosplash
+disable		 usr.lib.libreoffice.program.senddoc
+local		 usr.lib.libreoffice.program.soffice.bin
+lsb_release	 usr.lib.libreoffice.program.xpdfimport
+nvidia_modprobe  usr.lib.snapd.snap-confine.real
+sbin.dhclient	 usr.sbin.cups-browsed
+tunables	 usr.sbin.cupsd
+usr.bin.evince	 usr.sbin.rsyslogd
+usr.bin.man
+
+/etc/apparmor.d/abi:
+3.0  kernel-5.4-outoftree-network  kernel-5.4-vanilla
+
+/etc/apparmor.d/abstractions:
+apache2-common		     opencl-intel
+apparmor_api		     opencl-mesa
+aspell			     opencl-nvidia
+audio			     opencl-pocl
+authentication		     openssl
+base			     orbit2
+bash			     p11-kit
+consoles		     perl
+crypto			     php
+cups-client		     php5
+dbus			     php-worker
+dbus-accessibility	     postfix-common
+dbus-accessibility-strict    private-files
+dbus-network-manager-strict  private-files-strict
+dbus-session		     python
+dbus-session-strict	     qt5
+dbus-strict		     qt5-compose-cache-write
+dconf			     qt5-settings-write
+dovecot-common		     recent-documents-write
+dri-common		     ruby
+dri-enumerate		     samba
+enchant			     smbpass
+evince			     ssl_certs
+exo-open		     ssl_keys
+fcitx			     svn-repositories
+fcitx-strict		     ubuntu-bittorrent-clients
+fonts			     ubuntu-browsers
+freedesktop.org		     ubuntu-browsers.d
+gio-open		     ubuntu-console-browsers
+gnome			     ubuntu-console-email
+gnupg			     ubuntu-email
+gtk			     ubuntu-feed-readers
+gvfs-open		     ubuntu-gnome-terminal
+hosts_access		     ubuntu-helpers
+ibus			     ubuntu-konsole
+kde			     ubuntu-media-players
+kde-globals-write	     ubuntu-unity7-base
+kde-icon-cache-write	     ubuntu-unity7-launcher
+kde-language-write	     ubuntu-unity7-messaging
+kde-open5		     ubuntu-xterm
+kerberosclient		     user-download
+ldapclient		     user-mail
+libpam-systemd		     user-manpages
+likewise		     user-tmp
+mdns			     user-write
+mesa			     video
+mir			     vulkan
+mozc			     wayland
+mysql			     web-data
+nameservice		     winbind
+nis			     wutmp
+nss-systemd		     X
+nvidia			     xad
+opencl			     xdg-desktop
+opencl-common		     xdg-open
+
+/etc/apparmor.d/abstractions/apparmor_api:
+change_profile	examine  find_mountpoint  introspect  is_enabled
+
+/etc/apparmor.d/abstractions/ubuntu-browsers.d:
+chromium-browser  mailto	  productivity	      ubuntu-integration-xul
+java		  multimedia	  text-editors	      user-files
+kde		  plugins-common  ubuntu-integration
+
+/etc/apparmor.d/disable:
+usr.sbin.rsyslogd
+
+/etc/apparmor.d/local:
+lsb_release			      usr.lib.libreoffice.program.senddoc
+nvidia_modprobe			      usr.lib.libreoffice.program.soffice.bin
+README				      usr.lib.libreoffice.program.xpdfimport
+sbin.dhclient			      usr.lib.snapd.snap-confine.real
+usr.bin.evince			      usr.sbin.cups-browsed
+usr.bin.man			      usr.sbin.cupsd
+usr.bin.tcpdump			      usr.sbin.rsyslogd
+usr.lib.libreoffice.program.oosplash
+
+/etc/apparmor.d/tunables:
+alias	    etc     home.d	multiarch.d  securityfs  xdg-user-dirs
+apparmorfs  global  kernelvars	proc	     share	 xdg-user-dirs.d
+dovecot     home    multiarch	run	     sys
+
+/etc/apparmor.d/tunables/home.d:
+site.local  ubuntu
+
+/etc/apparmor.d/tunables/multiarch.d:
+site.local
+
+/etc/apparmor.d/tunables/xdg-user-dirs.d:
+site.local
+
+/etc/apport:
+blacklist.d  crashdb.conf  native-origins.d
+
+/etc/apport/blacklist.d:
+apport	README.blacklist  thunderbird
+
+/etc/apport/native-origins.d:
+thunderbird
+
+/etc/apt:
+apt.conf.d   keyrings	    sources.list    trusted.gpg.d
+auth.conf.d  preferences.d  sources.list.d
+
+/etc/apt/apt.conf.d:
+00aptitude	     20archive		  50unattended-upgrades
+00trustcdrom	     20auto-upgrades	  60icons
+01autoremove	     20dbus		  60icons-hidpi
+01-vendor-ubuntu     20packagekit	  70debconf
+10periodic	     20snapd.conf	  99update-notifier
+15update-stamp	     50appstream
+20apt-esm-hook.conf  50command-not-found
+
+/etc/apt/auth.conf.d:
+
+/etc/apt/keyrings:
+
+/etc/apt/preferences.d:
+
+/etc/apt/sources.list.d:
+
+/etc/apt/trusted.gpg.d:
+ubuntu-keyring-2012-cdimage.gpg  ubuntu-keyring-2018-archive.gpg
+
+/etc/avahi:
+avahi-autoipd.action  avahi-daemon.conf  hosts	services
+
+/etc/avahi/services:
+
+/etc/bash_completion.d:
+apport_completion  git-prompt
+
+/etc/binfmt.d:
+
+/etc/bluetooth:
+input.conf  main.conf  network.conf
+
+/etc/brltty:
+Attributes  Contraction  Input	Keyboard  Text
+
+/etc/brltty/Attributes:
+invleft_right.atb  left_right.atb  upper_lower.atb
+
+/etc/brltty/Contraction:
+af.ctb	       de-wort.cti    ha.ctb		letters-latin.cti  ru.ctb
+am.ctb	       en.ctb	      id.ctb		lt.ctb		   si.ctb
+countries.cti  en-ueb-g2.ctb  ipa.ctb		mg.ctb		   spaces.cti
+de-1998.ctb    en_US.ctb      ja.ctb		mun.ctb		   sw.ctb
+de-2015.ctb    en-us-g2.ctb   ko.ctb		nabcc.cti	   th.ctb
+de.ctb	       es.ctb	      ko-g0.ctb		nl.ctb		   zh-tw.ctb
+de-g0.ctb      fr.ctb	      ko-g1.ctb		none.ctb	   zh_TW.ctb
+de-g1.ctb      fr-g1.ctb      ko-g2.ctb		ny.ctb		   zh-tw.cti
+de-g2.ctb      fr-g2.ctb      latex-access.ctb	pt.ctb		   zu.ctb
+
+/etc/brltty/Input:
+al		    bg	cb	    eu	ht  lt	      mn  pm	      ts  vs
+android-chords.kti  bl	ce	    fa	hw  mb	      mt  sk	      tt  xw
+at		    bm	chords.kti  fs	ic  md	      no  speech.kti  vd
+ba		    bn	cn	    hd	ir  menu.kti  np  tn	      vo
+bd		    bp	ec	    hm	lb  mm	      pg  toggle.kti  vr
+
+/etc/brltty/Input/al:
+abt_basic.kti  bc680.ktb	el.ktb		sat_speech.kti
+abt_extra.kti  bc-etouch.kti	sat_common.kti	sat_tumblers.kti
+abt_large.ktb  bc.kti		sat_large.ktb	voyager.ktb
+abt_small.ktb  bc-smartpad.kti	sat_nav.kti
+bc640.ktb      bc-thumb.kti	sat_small.ktb
+
+/etc/brltty/Input/at:
+all.ktb
+
+/etc/brltty/Input/ba:
+all.txt
+
+/etc/brltty/Input/bd:
+all.txt
+
+/etc/brltty/Input/bg:
+all.ktb
+
+/etc/brltty/Input/bl:
+18.txt	40_m20_m40.txt
+
+/etc/brltty/Input/bm:
+b2g.ktb       default.ktb     inka.ktb	      pronto.ktb    sv.ktb
+b9b10.kti     display6.kti    joystick.kti    pv.ktb	    ultra.ktb
+b9b11b10.kti  display7.kti    keyboard.kti    rb.ktb	    v40.ktb
+command.kti   dm80p.ktb       navpad.kti      routing6.kti  v80.ktb
+connect.ktb   front10.kti     NLS_Zoomax.ktb  routing7.kti  vertical.kti
+conny.ktb     front6.kti      orbit.ktb       routing.kti   vk.ktb
+d6.kti	      horizontal.kti  pro.ktb	      status.kti    wheels.kti
+
+/etc/brltty/Input/bn:
+all.ktb  input.kti
+
+/etc/brltty/Input/bp:
+all.kti
+
+/etc/brltty/Input/cb:
+all.ktb
+
+/etc/brltty/Input/ce:
+all.ktb  novem.ktb
+
+/etc/brltty/Input/cn:
+all.ktb
+
+/etc/brltty/Input/ec:
+all.txt  spanish.txt
+
+/etc/brltty/Input/eu:
+all.txt      common.kti       esys_small.ktb  joysticks.kti  sw34.kti
+braille.kti  esys_large.ktb   esytime.ktb     routing.kti    sw56.kti
+clio.ktb     esys_medium.ktb  iris.ktb	      sw12.kti
+
+/etc/brltty/Input/fa:
+all.ktb
+
+/etc/brltty/Input/fs:
+bumpers.kti  focus14.ktb  focus40.ktb  focus.kti     pacmate.ktb  speech.kti
+common.kti   focus1.ktb   focus80.ktb  keyboard.kti  rockers.kti
+
+/etc/brltty/Input/hd:
+mbl.ktb  pfl.ktb
+
+/etc/brltty/Input/hm:
+beetle.ktb   contexts.kti  f18.kti    letters.kti  qwerty.ktb  scroll.ktb
+braille.kti  edge.ktb	   fnkey.kti  pan.ktb	   qwerty.kti  scroll.kti
+common.kti   f14.kti	   left.kti   pan.kti	   right.kti   sync.ktb
+
+/etc/brltty/Input/ht:
+ab.ktb	  alo.ktb   bkwm.ktb  bs.kti	input.kti     mdlr.ktb	rockers.kti
+ab.kti	  as40.ktb  brln.ktb  cb40.ktb	joystick.kti  me64.ktb	wave.ktb
+ab_s.ktb  bb.ktb    bs40.ktb  dots.kti	keypad.kti    me88.ktb
+ac4.ktb   bbp.ktb   bs80.ktb  easy.ktb	mc88.ktb      me.kti
+
+/etc/brltty/Input/hw:
+B80.ktb    BI32.ktb   braille.kti  joystick.kti  one.ktb      touch.ktb
+BI14.ktb   BI40.ktb   C20.ktb	   M40.ktb	 routing.kti
+BI20X.ktb  BI40X.ktb  command.kti  NLS.ktb	 thumb.kti
+
+/etc/brltty/Input/ic:
+bb.ktb	chords.kti  common.kti	nvda.ktb  route.kti  toggle.kti
+
+/etc/brltty/Input/ir:
+all.kti  brl.ktb  pc.ktb
+
+/etc/brltty/Input/lb:
+all.txt
+
+/etc/brltty/Input/lt:
+all.txt
+
+/etc/brltty/Input/mb:
+all.txt
+
+/etc/brltty/Input/md:
+common.kti   fkeys.kti	fk_s.ktb  keyboard.kti
+default.ktb  fk.ktb	kbd.ktb   status.kti
+
+/etc/brltty/Input/mm:
+common.kti  pocket.ktb	smart.ktb
+
+/etc/brltty/Input/mn:
+all.txt
+
+/etc/brltty/Input/mt:
+bd1_3.ktb  bd1_3s.ktb  bd1_6.kti   bd2.ktb
+bd1_3.kti  bd1_6.ktb   bd1_6s.ktb  status.kti
+
+/etc/brltty/Input/no:
+all.txt
+
+/etc/brltty/Input/np:
+all.ktb
+
+/etc/brltty/Input/pg:
+all.ktb
+
+/etc/brltty/Input/pm:
+2d_l.ktb      el2d_80s.ktb  el80_ii.ktb    front9.kti	 status20.kti
+2d_s.ktb      el40c.ktb     el_80.ktb	   ib_80.ktb	 status22.kti
+bar.kti       el_40_p.ktb   el80s.ktb	   keyboard.kti  status2.kti
+c_486.ktb     el40s.ktb     elba_20.ktb    keys.kti	 status4.kti
+c.ktb	      el60c.ktb     elba_32.ktb    live.ktb	 switches.kti
+el_2d_40.ktb  el66s.ktb     elb_tr_20.ktb  routing.kti	 trio.ktb
+el_2d_66.ktb  el70s.ktb     elb_tr_32.ktb  status0.kti
+el_2d_80.ktb  el80c.ktb     front13.kti    status13.kti
+
+/etc/brltty/Input/sk:
+bdp.ktb  ntk.ktb
+
+/etc/brltty/Input/tn:
+all.txt
+
+/etc/brltty/Input/ts:
+nav20.ktb  nav.kti	  pb40.ktb  pb.kti	  routing.kti
+nav40.ktb  nav_large.kti  pb65.ktb  pb_large.kti
+nav80.ktb  nav_small.kti  pb80.ktb  pb_small.kti
+
+/etc/brltty/Input/tt:
+all.txt
+
+/etc/brltty/Input/vd:
+all.txt
+
+/etc/brltty/Input/vo:
+all.ktb  all.kti  bp.ktb
+
+/etc/brltty/Input/vr:
+all.txt
+
+/etc/brltty/Input/vs:
+all.txt
+
+/etc/brltty/Input/xw:
+
+/etc/brltty/Keyboard:
+braille.ktb  desktop.ktb  keypad.ktb  kp_speak.kti  sun_type6.ktb
+braille.kti  desktop.kti  kp_say.kti  laptop.ktb
+
+/etc/brltty/Text:
+alias.tti	 en.ttb        ltr-alias.tti	 oriya.tti
+ar.ttb		 en_US.ttb     ltr-cyrillic.tti  or.ttb
+ascii-basic.tti  eo.ttb        ltr-dot8.tti	 pa.ttb
+as.ttb		 es.ttb        ltr-latin.tti	 pi.ttb
+awa.ttb		 et.ttb        ltr-tibetan.tti	 pl.ttb
+bengali.tti	 fi.ttb        lt.ttb		 pt.ttb
+bg.ttb		 fr-2007.ttb   lv.ttb		 punc-alternate.tti
+bh.ttb		 fr_CA.ttb     malayalam.tti	 punc-basic.tti
+blocks.tti	 fr-cbifs.ttb  mg.ttb		 punc-tibetan.tti
+bn.ttb		 fr_FR.ttb     mi.ttb		 ro.ttb
+bo.ttb		 fr.ttb        ml.ttb		 ru.ttb
+boxes.tti	 fr-vs.ttb     mni.ttb		 sa.ttb
+bra.ttb		 ga.ttb        mr.ttb		 sat.ttb
+brf.ttb		 gd.ttb        mt.ttb		 sd.ttb
+common.tti	 gon.ttb       mun.ttb		 se.ttb
+cs.ttb		 greek.tti     mwr.ttb		 sk.ttb
+ctl-latin.tti	 gujarati.tti  ne.ttb		 sl.ttb
+cy.ttb		 gurmukhi.tti  new.ttb		 sv-1989.ttb
+da-1252.ttb	 gu.ttb        nl_BE.ttb	 sv-1996.ttb
+da-lt.ttb	 he.ttb        nl_NL.ttb	 sv.ttb
+da.ttb		 hi.ttb        nl.ttb		 sw.ttb
+de-chess.tti	 hr.ttb        no-generic.ttb	 tamil.tti
+de.ttb		 hu.ttb        no-oup.ttb	 ta.ttb
+devanagari.tti	 hy.ttb        no.ttb		 telugu.tti
+dra.ttb		 is.ttb        num-alias.tti	 te.ttb
+el.ttb		 it.ttb        num-dot6.tti	 tr.ttb
+en_CA.ttb	 kannada.tti   num-dot8.tti	 uk.ttb
+en-chess.tti	 kha.ttb       num-french.tti	 vi.ttb
+en_GB.ttb	 kn.ttb        num-nemd8.tti	 win-1252.tti
+en-na-ascii.tti  kok.ttb       num-nemeth.tti
+en-nabcc.ttb	 kru.ttb       nwc.ttb
+
+/etc/ca-certificates:
+update.d
+
+/etc/ca-certificates/update.d:
+
+/etc/chatscripts:
+gprs  pap  provider
+
+/etc/console-setup:
+cached_ISO-8859-1.acm.gz       compose.ISO-8859-16.inc
+cached_ISO-8859-1_del.kmap.gz  compose.ISO-8859-1.inc
+cached_setup_font.sh	       compose.ISO-8859-2.inc
+cached_setup_keyboard.sh       compose.ISO-8859-3.inc
+cached_setup_terminal.sh       compose.ISO-8859-4.inc
+cached_Uni2-Fixed16.psf.gz     compose.ISO-8859-5.inc
+cached_UTF-8_del.kmap.gz       compose.ISO-8859-6.inc
+compose.ARMSCII-8.inc	       compose.ISO-8859-7.inc
+compose.CP1251.inc	       compose.ISO-8859-8.inc
+compose.CP1255.inc	       compose.ISO-8859-9.inc
+compose.CP1256.inc	       compose.KOI8-R.inc
+compose.GEORGIAN-ACADEMY.inc   compose.KOI8-U.inc
+compose.GEORGIAN-PS.inc        compose.TIS-620.inc
+compose.IBM1133.inc	       compose.VISCII.inc
+compose.ISIRI-3342.inc	       ISO-8859-1.acm
+compose.ISO-8859-10.inc        remap.inc
+compose.ISO-8859-11.inc        Uni2-Fixed16.psf.gz
+compose.ISO-8859-13.inc        vtrgb
+compose.ISO-8859-14.inc        vtrgb.vga
+compose.ISO-8859-15.inc
+
+/etc/cracklib:
+cracklib.conf
+
+/etc/cron.d:
+anacron  e2scrub_all
+
+/etc/cron.daily:
+0anacron  apport  apt-compat  cracklib-runtime	dpkg  logrotate  man-db
+
+/etc/cron.hourly:
+
+/etc/cron.monthly:
+0anacron
+
+/etc/cron.weekly:
+0anacron  man-db
+
+/etc/cups:
+cups-browsed.conf  interfaces  raw.types  subscriptions.conf
+cupsd.conf	   ppd	       snmp.conf  subscriptions.conf.O
+cups-files.conf    raw.convs   ssl
+
+/etc/cups/interfaces:
+
+/etc/cups/ppd:
+ls: невозможно открыть каталог '/etc/cups/ssl': Отказано в доступе
+
+/etc/cupshelpers:
+preferreddrivers.xml
+
+/etc/dbus-1:
+session.d  system.d
+
+/etc/dbus-1/session.d:
+
+/etc/dbus-1/system.d:
+avahi-dbus.conf
+bluetooth.conf
+com.hp.hplip.conf
+com.redhat.NewPrinterNotification.conf
+com.redhat.PrinterDriversInstaller.conf
+com.ubuntu.LanguageSelector.conf
+com.ubuntu.SoftwareProperties.conf
+com.ubuntu.USBCreator.conf
+com.ubuntu.WhoopsiePreferences.conf
+dnsmasq.conf
+gdm.conf
+kerneloops.conf
+net.hadess.PowerProfiles.conf
+net.hadess.SensorProxy.conf
+net.hadess.SwitcherooControl.conf
+org.debian.apt.conf
+org.freedesktop.GeoClue2.Agent.conf
+org.freedesktop.GeoClue2.conf
+org.freedesktop.ModemManager1.conf
+org.freedesktop.PackageKit.conf
+org.freedesktop.thermald.conf
+org.opensuse.CupsPkHelper.Mechanism.conf
+pulseaudio-system.conf
+wpa_supplicant.conf
+
+/etc/dconf:
+db  profile
+
+/etc/dconf/db:
+ibus  ibus.d
+
+/etc/dconf/db/ibus.d:
+00-upstream-settings
+
+/etc/dconf/profile:
+ibus
+
+/etc/default:
+acpid		 apport		grub		 kerneloops	      rsync
+acpi-support	 avahi-daemon	grub.d		 keyboard	      saned
+alsa		 console-setup	im-config	 locale		      ssh
+amd64-microcode  cron		intel-microcode  networkd-dispatcher  ufw
+anacron		 dbus		irqbalance	 openvpn	      useradd
+
+/etc/default/grub.d:
+init-select.cfg
+
+/etc/depmod.d:
+ubuntu.conf
+
+/etc/dhcp:
+debug  dhclient.conf  dhclient-enter-hooks.d  dhclient-exit-hooks.d
+
+/etc/dhcp/dhclient-enter-hooks.d:
+avahi-autoipd  debug
+
+/etc/dhcp/dhclient-exit-hooks.d:
+debug  resolved  rfc3442-classless-routes  timesyncd  zzz_avahi-autoipd
+
+/etc/dictionaries-common:
+ispell-default	words
+
+/etc/dpkg:
+dpkg.cfg  dpkg.cfg.d  origins
+
+/etc/dpkg/dpkg.cfg.d:
+
+/etc/dpkg/origins:
+debian	default  ubuntu
+
+/etc/emacs:
+site-start.d
+
+/etc/emacs/site-start.d:
+50dictionaries-common.el
+
+/etc/environment.d:
+90atk-adaptor.conf  90qt-a11y.conf
+
+/etc/firefox:
+pref
+
+/etc/firefox/pref:
+apturl.js
+
+/etc/fonts:
+conf.avail  conf.d  fonts.conf
+
+/etc/fonts/conf.avail:
+10-antialias.conf			   65-0-fonts-deva-extra.conf
+10-autohint.conf			   65-0-fonts-gubbi.conf
+10-hinting-full.conf			   65-0-fonts-gujr-extra.conf
+10-hinting-medium.conf			   65-0-fonts-guru-extra.conf
+10-hinting-none.conf			   65-0-fonts-orya-extra.conf
+10-hinting-slight.conf			   65-0-fonts-pagul.conf
+10-no-sub-pixel.conf			   65-0-fonts-telu-extra.conf
+10-scale-bitmap-fonts.conf		   65-0-smc-meera.conf
+10-sub-pixel-bgr.conf			   65-0-smc-rachana.conf
+10-sub-pixel-rgb.conf			   65-droid-sans-fallback.conf
+10-sub-pixel-vbgr.conf			   65-fonts-persian.conf
+10-sub-pixel-vrgb.conf			   65-khmer.conf
+10-unhinted.conf			   65-nonlatin.conf
+11-lcdfilter-default.conf		   66-lohit-assamese.conf
+11-lcdfilter-legacy.conf		   66-lohit-bengali.conf
+11-lcdfilter-light.conf			   66-lohit-devanagari.conf
+20-unhint-small-dejavu-lgc-sans.conf	   66-lohit-gujarati.conf
+20-unhint-small-dejavu-lgc-sans-mono.conf  66-lohit-gurmukhi.conf
+20-unhint-small-dejavu-lgc-serif.conf	   66-lohit-kannada.conf
+20-unhint-small-dejavu-sans.conf	   66-lohit-odia.conf
+20-unhint-small-dejavu-sans-mono.conf	   66-lohit-tamil-classical.conf
+20-unhint-small-dejavu-serif.conf	   66-lohit-tamil.conf
+20-unhint-small-vera.conf		   66-lohit-telugu.conf
+25-unhint-nonlatin.conf			   67-fonts-smc-manjari.conf
+30-cjk-aliases.conf			   67-lohit-malayalam.conf
+30-droid-noto-mono.conf			   67-smc-anjalioldlipi.conf
+30-metric-aliases.conf			   67-smc-chilanka.conf
+40-nonlatin.conf			   67-smc-dyuthi.conf
+45-generic.conf				   67-smc-karumbi.conf
+45-latin.conf				   67-smc-keraleeyam.conf
+49-sansserif.conf			   67-smc-raghumalayalamsans.conf
+50-user.conf				   67-smc-suruma.conf
+51-local.conf				   67-smc-uroob.conf
+53-monospace-lcd-filter.conf		   69-language-selector-ja.conf
+56-language-selector-ar.conf		   69-language-selector-zh-cn.conf
+57-dejavu-sans.conf			   69-language-selector-zh-hk.conf
+57-dejavu-sans-mono.conf		   69-language-selector-zh-mo.conf
+57-dejavu-serif.conf			   69-language-selector-zh-sg.conf
+58-dejavu-lgc-sans.conf			   69-language-selector-zh-tw.conf
+58-dejavu-lgc-sans-mono.conf		   69-unifont.conf
+58-dejavu-lgc-serif.conf		   70-force-bitmaps.conf
+59-lohit-devanagari.conf		   70-no-bitmaps.conf
+60-generic.conf				   70-yes-bitmaps.conf
+60-latin.conf				   80-delicious.conf
+64-language-selector-prefer.conf	   90-synthetic.conf
+65-0-fonts-beng-extra.conf		   99-language-selector-zh.conf
+
+/etc/fonts/conf.d:
+10-antialias.conf			   64-language-selector-prefer.conf
+10-hinting-slight.conf			   65-0-fonts-beng-extra.conf
+10-scale-bitmap-fonts.conf		   65-0-fonts-deva-extra.conf
+11-lcdfilter-default.conf		   65-0-fonts-gubbi.conf
+20-unhint-small-dejavu-lgc-sans.conf	   65-0-fonts-gujr-extra.conf
+20-unhint-small-dejavu-lgc-sans-mono.conf  65-0-fonts-guru-extra.conf
+20-unhint-small-dejavu-lgc-serif.conf	   65-0-fonts-orya-extra.conf
+20-unhint-small-dejavu-sans.conf	   65-0-fonts-pagul.conf
+20-unhint-small-dejavu-sans-mono.conf	   65-0-fonts-telu-extra.conf
+20-unhint-small-dejavu-serif.conf	   65-0-smc-meera.conf
+20-unhint-small-vera.conf		   65-0-smc-rachana.conf
+30-cjk-aliases.conf			   65-droid-sans-fallback.conf
+30-metric-aliases.conf			   65-fonts-persian.conf
+30-opensymbol.conf			   65-khmer.conf
+40-nonlatin.conf			   65-nonlatin.conf
+45-generic.conf				   66-lohit-assamese.conf
+45-latin.conf				   66-lohit-bengali.conf
+49-sansserif.conf			   66-lohit-devanagari.conf
+50-user.conf				   66-lohit-gujarati.conf
+51-local.conf				   66-lohit-gurmukhi.conf
+56-language-selector-ar.conf		   66-lohit-kannada.conf
+57-dejavu-sans.conf			   66-lohit-odia.conf
+57-dejavu-sans-mono.conf		   66-lohit-tamil-classical.conf
+57-dejavu-serif.conf			   66-lohit-tamil.conf
+58-dejavu-lgc-sans.conf			   66-lohit-telugu.conf
+58-dejavu-lgc-sans-mono.conf		   67-fonts-smc-manjari.conf
+58-dejavu-lgc-serif.conf		   67-smc-anjalioldlipi.conf
+59-lohit-devanagari.conf		   67-smc-chilanka.conf
+60-generic.conf				   67-smc-dyuthi.conf
+60-latin.conf				   67-smc-karumbi.conf
+61-urw-bookman.conf			   67-smc-keraleeyam.conf
+61-urw-c059.conf			   67-smc-raghumalayalamsans.conf
+61-urw-d050000l.conf			   67-smc-suruma.conf
+61-urw-fallback-backwards.conf		   67-smc-uroob.conf
+61-urw-fallback-generics.conf		   69-language-selector-ja.conf
+61-urw-gothic.conf			   69-language-selector-zh-cn.conf
+61-urw-nimbus-mono-ps.conf		   69-language-selector-zh-hk.conf
+61-urw-nimbus-roman.conf		   69-language-selector-zh-mo.conf
+61-urw-nimbus-sans.conf			   69-language-selector-zh-sg.conf
+61-urw-p052.conf			   69-language-selector-zh-tw.conf
+61-urw-standard-symbols-ps.conf		   69-unifont.conf
+61-urw-z003.conf			   70-fonts-noto-cjk.conf
+64-01-tlwg-kinnari.conf			   70-no-bitmaps.conf
+64-02-tlwg-norasi.conf			   80-delicious.conf
+64-10-tlwg-loma.conf			   89-tlwg-garuda-synthetic.conf
+64-11-tlwg-waree.conf			   89-tlwg-kinnari-synthetic.conf
+64-13-tlwg-garuda.conf			   89-tlwg-laksaman-synthetic.conf
+64-14-tlwg-umpush.conf			   89-tlwg-umpush-synthetic.conf
+64-15-laksaman.conf			   90-synthetic.conf
+64-21-tlwg-typo.conf			   99-language-selector-zh.conf
+64-22-tlwg-typist.conf			   README
+64-23-tlwg-mono.conf
+
+/etc/fwupd:
+daemon.conf  redfish.conf  remotes.d  thunderbolt.conf	uefi_capsule.conf
+
+/etc/fwupd/remotes.d:
+dell-esrt.conf	lvfs-testing.conf  vendor-directory.conf
+lvfs.conf	vendor.conf
+
+/etc/gdb:
+gdbinit  gdbinit.d
+
+/etc/gdb/gdbinit.d:
+
+/etc/gdm3:
+config-error-dialog.sh	Init	     PreSession  Xsession
+custom.conf		PostLogin    Prime
+greeter.dconf-defaults	PostSession  PrimeOff
+
+/etc/gdm3/Init:
+Default
+
+/etc/gdm3/PostLogin:
+Default.sample
+
+/etc/gdm3/PostSession:
+Default
+
+/etc/gdm3/PreSession:
+Default
+
+/etc/gdm3/Prime:
+Default
+
+/etc/gdm3/PrimeOff:
+Default
+
+/etc/geoclue:
+geoclue.conf
+
+/etc/ghostscript:
+cidfmap.d  fontmap.d
+
+/etc/ghostscript/cidfmap.d:
+90gs-cjk-resource-cns1.conf    90gs-cjk-resource-japan2.conf
+90gs-cjk-resource-gb1.conf     90gs-cjk-resource-korea1.conf
+90gs-cjk-resource-japan1.conf
+
+/etc/ghostscript/fontmap.d:
+
+/etc/glvnd:
+egl_vendor.d
+
+/etc/glvnd/egl_vendor.d:
+
+/etc/gnome:
+defaults.list  menus.blacklist
+
+/etc/groff:
+man.local  mdoc.local
+
+/etc/grub.d:
+00_header	 10_linux_zfs	30_os-prober	  40_custom
+05_debian_theme  20_linux_xen	30_uefi-firmware  41_custom
+10_linux	 20_memtest86+	35_fwupd	  README
+
+/etc/gss:
+mech.d
+
+/etc/gss/mech.d:
+
+/etc/gtk-2.0:
+im-multipress.conf
+
+/etc/gtk-3.0:
+im-multipress.conf  settings.ini
+
+/etc/hp:
+hplip.conf
+
+/etc/ifplugd:
+action.d
+
+/etc/ifplugd/action.d:
+action_wpa
+
+/etc/init:
+whoopsie.conf
+
+/etc/init.d:
+acpid		  gdm3		     pulseaudio-enable-autospawn
+alsa-utils	  grub-common	     rsync
+anacron		  hwclock.sh	     saned
+apparmor	  irqbalance	     speech-dispatcher
+apport		  kerneloops	     spice-vdagent
+avahi-daemon	  keyboard-setup.sh  ssh
+bluetooth	  kmod		     udev
+console-setup.sh  open-vm-tools      ufw
+cron		  openvpn	     unattended-upgrades
+cups		  plymouth	     uuidd
+cups-browsed	  plymouth-log	     whoopsie
+dbus		  procps	     x11-common
+
+/etc/initramfs-tools:
+conf.d	hooks  initramfs.conf  modules	scripts  update-initramfs.conf
+
+/etc/initramfs-tools/conf.d:
+
+/etc/initramfs-tools/hooks:
+
+/etc/initramfs-tools/scripts:
+init-bottom    init-top      local-premount  nfs-bottom    nfs-top
+init-premount  local-bottom  local-top	     nfs-premount  panic
+
+/etc/initramfs-tools/scripts/init-bottom:
+
+/etc/initramfs-tools/scripts/init-premount:
+
+/etc/initramfs-tools/scripts/init-top:
+
+/etc/initramfs-tools/scripts/local-bottom:
+
+/etc/initramfs-tools/scripts/local-premount:
+
+/etc/initramfs-tools/scripts/local-top:
+
+/etc/initramfs-tools/scripts/nfs-bottom:
+
+/etc/initramfs-tools/scripts/nfs-premount:
+
+/etc/initramfs-tools/scripts/nfs-top:
+
+/etc/initramfs-tools/scripts/panic:
+
+/etc/insserv.conf.d:
+gdm3
+
+/etc/ipp-usb:
+ipp-usb.conf
+
+/etc/iproute2:
+bpf_pinning  group	rt_dsfield  rt_protos.d  rt_scopes  rt_tables.d
+ematch_map   nl_protos	rt_protos   rt_realms	 rt_tables
+
+/etc/iproute2/rt_protos.d:
+README
+
+/etc/iproute2/rt_tables.d:
+README
+
+/etc/kernel:
+install.d  postinst.d  postrm.d  preinst.d
+
+/etc/kernel/install.d:
+
+/etc/kernel/postinst.d:
+initramfs-tools      update-notifier	     zz-update-grub
+unattended-upgrades  xx-update-initrd-links
+
+/etc/kernel/postrm.d:
+initramfs-tools  zz-update-grub
+
+/etc/kernel/preinst.d:
+intel-microcode
+
+/etc/ldap:
+ldap.conf
+
+/etc/ld.so.conf.d:
+libc.conf  x86_64-linux-gnu.conf
+
+/etc/libblockdev:
+conf.d
+
+/etc/libblockdev/conf.d:
+00-default.cfg
+
+/etc/libnl-3:
+classid  pktloc
+
+/etc/libpaper.d:
+
+/etc/libreoffice:
+psprint.conf  registry	sofficerc  soffice.sh
+
+/etc/libreoffice/registry:
+calc.xcd	   Langpack-en-US.xcd  ogltrans.xcd	      res
+draw.xcd	   Langpack-ru.xcd     oo-ad-ldap.xcd.sample  writer.xcd
+gnome.xcd	   lingucomponent.xcd  oo-ldap.xcd.sample     xsltfilter.xcd
+graphicfilter.xcd  main.xcd	       pdfimport.xcd
+impress.xcd	   math.xcd	       pyuno.xcd
+
+/etc/libreoffice/registry/res:
+fcfg_langpack_en-US.xcd  fcfg_langpack_ru.xcd  registry_ru.xcd
+
+/etc/logcheck:
+ignore.d.paranoid  ignore.d.server
+
+/etc/logcheck/ignore.d.paranoid:
+cracklib-runtime
+
+/etc/logcheck/ignore.d.server:
+gpg-agent  libsasl2-modules  rsyslog
+
+/etc/logrotate.d:
+alternatives  btmp	   rsyslog		   ufw
+apport	      cups-daemon  sane-utils		   unattended-upgrades
+apt	      dpkg	   speech-dispatcher	   wtmp
+bootlog       ppp	   ubuntu-advantage-tools
+
+/etc/ModemManager:
+fcc-unlock.d
+
+/etc/ModemManager/fcc-unlock.d:
+
+/etc/modprobe.d:
+alsa-base.conf			blacklist-modem.conf
+amd64-microcode-blacklist.conf	blacklist-oss.conf
+blacklist-ath_pci.conf		blacklist-rare-network.conf
+blacklist.conf			intel-microcode-blacklist.conf
+blacklist-firewire.conf		iwlwifi.conf
+blacklist-framebuffer.conf
+
+/etc/modules-load.d:
+cups-filters.conf  modules.conf
+
+/etc/netplan:
+01-network-manager-all.yaml
+
+/etc/network:
+if-down.d  if-post-down.d  if-pre-up.d	if-up.d
+
+/etc/network/if-down.d:
+avahi-autoipd  openvpn	wpasupplicant
+
+/etc/network/if-post-down.d:
+wireless-tools	wpasupplicant
+
+/etc/network/if-pre-up.d:
+ethtool  wireless-tools  wpasupplicant
+
+/etc/network/if-up.d:
+avahi-autoipd  ethtool	openvpn  wpasupplicant
+
+/etc/networkd-dispatcher:
+carrier.d  degraded.d  dormant.d  no-carrier.d	off.d  routable.d
+
+/etc/networkd-dispatcher/carrier.d:
+
+/etc/networkd-dispatcher/degraded.d:
+
+/etc/networkd-dispatcher/dormant.d:
+
+/etc/networkd-dispatcher/no-carrier.d:
+
+/etc/networkd-dispatcher/off.d:
+
+/etc/networkd-dispatcher/routable.d:
+
+/etc/NetworkManager:
+conf.d	      dnsmasq.d		NetworkManager.conf
+dispatcher.d  dnsmasq-shared.d	system-connections
+
+/etc/NetworkManager/conf.d:
+default-wifi-powersave-on.conf
+
+/etc/NetworkManager/dispatcher.d:
+01-ifupdown  no-wait.d	pre-down.d  pre-up.d
+
+/etc/NetworkManager/dispatcher.d/no-wait.d:
+
+/etc/NetworkManager/dispatcher.d/pre-down.d:
+
+/etc/NetworkManager/dispatcher.d/pre-up.d:
+
+/etc/NetworkManager/dnsmasq.d:
+
+/etc/NetworkManager/dnsmasq-shared.d:
+
+/etc/NetworkManager/system-connections:
+
+/etc/newt:
+palette  palette.original  palette.ubuntu
+
+/etc/openvpn:
+client	server	update-resolv-conf
+
+/etc/openvpn/client:
+
+/etc/openvpn/server:
+
+/etc/opt:
+
+/etc/PackageKit:
+PackageKit.conf  Vendor.conf
+
+/etc/pam.d:
+chfn			       gdm-fingerprint		       polkit-1
+chpasswd		       gdm-launch-environment	       ppp
+chsh			       gdm-password		       runuser
+common-account		       gdm-smartcard		       runuser-l
+common-auth		       gdm-smartcard-pkcs11-exclusive  sshd
+common-password		       gdm-smartcard-sssd-exclusive    su
+common-session		       gdm-smartcard-sssd-or-password  sudo
+common-session-noninteractive  login			       sudo-i
+cron			       newusers			       su-l
+cups			       other			       vmtoolsd
+gdm-autologin		       passwd
+
+/etc/pcmcia:
+config.opts
+
+/etc/perl:
+Net
+
+/etc/perl/Net:
+libnet.cfg
+
+/etc/pki:
+fwupd  fwupd-metadata
+
+/etc/pki/fwupd:
+GPG-KEY-Linux-Foundation-Firmware      LVFS-CA.pem
+GPG-KEY-Linux-Vendor-Firmware-Service
+
+/etc/pki/fwupd-metadata:
+GPG-KEY-Linux-Foundation-Metadata      LVFS-CA.pem
+GPG-KEY-Linux-Vendor-Firmware-Service
+
+/etc/pm:
+sleep.d
+
+/etc/pm/sleep.d:
+10_grub-common	10_unattended-upgrades-hibernate
+
+/etc/polkit-1:
+localauthority	localauthority.conf.d
+ls: невозможно открыть каталог '/etc/polkit-1/localauthority': Отказано в доступе
+
+/etc/polkit-1/localauthority.conf.d:
+50-localauthority.conf	51-ubuntu-admin.conf
+
+/etc/ppp:
+chap-secrets  ip-pre-up    ip-up.d	ipv6-up    options.pptp
+ip-down       ip-pre-up.d  ipv6-down	ipv6-up.d  pap-secrets
+ip-down.d     ip-up	   ipv6-down.d	options    peers
+
+/etc/ppp/ip-down.d:
+0000usepeerdns
+
+/etc/ppp/ip-pre-up.d:
+
+/etc/ppp/ip-up.d:
+0000usepeerdns
+
+/etc/ppp/ipv6-down.d:
+
+/etc/ppp/ipv6-up.d:
+
+/etc/ppp/peers:
+provider
+
+/etc/profile.d:
+01-locale-fix.sh       debuginfod.csh		 vte-2.91.sh
+apps-bin-path.sh       debuginfod.sh		 vte.csh
+bash_completion.sh     gnome-session_gnomerc.sh  xdg_dirs_desktop_session.sh
+cedilla-portuguese.sh  im-config_wayland.sh
+
+/etc/pulse:
+client.conf  client.conf.d  daemon.conf  default.pa  default.pa.d  system.pa
+
+/etc/pulse/client.conf.d:
+01-enable-autospawn.conf
+
+/etc/pulse/default.pa.d:
+
+/etc/python3:
+debian_config
+
+/etc/python3.10:
+sitecustomize.py
+
+/etc/rc0.d:
+K01alsa-utils	 K01kerneloops			 K01speech-dispatcher
+K01avahi-daemon  K01open-vm-tools		 K01spice-vdagent
+K01bluetooth	 K01openvpn			 K01udev
+K01cups-browsed  K01plymouth			 K01unattended-upgrades
+K01gdm3		 K01pulseaudio-enable-autospawn  K01uuidd
+K01irqbalance	 K01saned
+
+/etc/rc1.d:
+K01alsa-utils	 K01irqbalance			 K01speech-dispatcher
+K01avahi-daemon  K01kerneloops			 K01spice-vdagent
+K01bluetooth	 K01open-vm-tools		 K01ufw
+K01cups		 K01openvpn			 K01uuidd
+K01cups-browsed  K01pulseaudio-enable-autospawn  K01whoopsie
+K01gdm3		 K01saned
+
+/etc/rc2.d:
+K01speech-dispatcher  S01cups-browsed	S01pulseaudio-enable-autospawn
+S01acpid	      S01dbus		S01rsync
+S01anacron	      S01gdm3		S01saned
+S01apport	      S01grub-common	S01spice-vdagent
+S01avahi-daemon       S01irqbalance	S01ssh
+S01bluetooth	      S01kerneloops	S01unattended-upgrades
+S01console-setup.sh   S01open-vm-tools	S01uuidd
+S01cron		      S01openvpn	S01whoopsie
+S01cups		      S01plymouth
+
+/etc/rc3.d:
+K01speech-dispatcher  S01cups-browsed	S01pulseaudio-enable-autospawn
+S01acpid	      S01dbus		S01rsync
+S01anacron	      S01gdm3		S01saned
+S01apport	      S01grub-common	S01spice-vdagent
+S01avahi-daemon       S01irqbalance	S01ssh
+S01bluetooth	      S01kerneloops	S01unattended-upgrades
+S01console-setup.sh   S01open-vm-tools	S01uuidd
+S01cron		      S01openvpn	S01whoopsie
+S01cups		      S01plymouth
+
+/etc/rc4.d:
+K01speech-dispatcher  S01cups-browsed	S01pulseaudio-enable-autospawn
+S01acpid	      S01dbus		S01rsync
+S01anacron	      S01gdm3		S01saned
+S01apport	      S01grub-common	S01spice-vdagent
+S01avahi-daemon       S01irqbalance	S01ssh
+S01bluetooth	      S01kerneloops	S01unattended-upgrades
+S01console-setup.sh   S01open-vm-tools	S01uuidd
+S01cron		      S01openvpn	S01whoopsie
+S01cups		      S01plymouth
+
+/etc/rc5.d:
+K01speech-dispatcher  S01cups-browsed	S01pulseaudio-enable-autospawn
+S01acpid	      S01dbus		S01rsync
+S01anacron	      S01gdm3		S01saned
+S01apport	      S01grub-common	S01spice-vdagent
+S01avahi-daemon       S01irqbalance	S01ssh
+S01bluetooth	      S01kerneloops	S01unattended-upgrades
+S01console-setup.sh   S01open-vm-tools	S01uuidd
+S01cron		      S01openvpn	S01whoopsie
+S01cups		      S01plymouth
+
+/etc/rc6.d:
+K01alsa-utils	 K01kerneloops			 K01speech-dispatcher
+K01avahi-daemon  K01open-vm-tools		 K01spice-vdagent
+K01bluetooth	 K01openvpn			 K01udev
+K01cups-browsed  K01plymouth			 K01unattended-upgrades
+K01gdm3		 K01pulseaudio-enable-autospawn  K01uuidd
+K01irqbalance	 K01saned
+
+/etc/rcS.d:
+S01alsa-utils  S01keyboard-setup.sh  S01plymouth-log  S01udev  S01x11-common
+S01apparmor    S01kmod		     S01procps	      S01ufw
+
+/etc/rsyslog.d:
+20-ufw.conf  50-default.conf
+
+/etc/sane.d:
+abaton.conf	     dll.conf	    kvs1025.conf     rts8891.conf
+agfafocus.conf	     dll.d	    leo.conf	     s9036.conf
+airscan.conf	     dmc.conf	    lexmark.conf     saned.conf
+apple.conf	     epjitsu.conf   ma1509.conf      sceptre.conf
+artec.conf	     epson2.conf    magicolor.conf   sharp.conf
+artec_eplus48u.conf  epson.conf     matsushita.conf  sm3840.conf
+avision.conf	     epsonds.conf   microtek2.conf   snapscan.conf
+bh.conf		     escl.conf	    microtek.conf    sp15c.conf
+canon630u.conf	     fujitsu.conf   mustek.conf      st400.conf
+canon.conf	     genesys.conf   mustek_pp.conf   stv680.conf
+canon_dr.conf	     gphoto2.conf   mustek_usb.conf  tamarack.conf
+canon_lide70.conf    gt68xx.conf    nec.conf	     teco1.conf
+canon_pp.conf	     hp3900.conf    net.conf	     teco2.conf
+cardscan.conf	     hp4200.conf    p5.conf	     teco3.conf
+coolscan2.conf	     hp5400.conf    pie.conf	     test.conf
+coolscan3.conf	     hp.conf	    pieusb.conf      u12.conf
+coolscan.conf	     hpsj5s.conf    pixma.conf	     umax1220u.conf
+dc210.conf	     hs2p.conf	    plustek.conf     umax.conf
+dc240.conf	     ibm.conf	    plustek_pp.conf  umax_pp.conf
+dc25.conf	     kodakaio.conf  qcam.conf	     xerox_mfp.conf
+dell1600n_net.conf   kodak.conf     ricoh.conf
+
+/etc/sane.d/dll.d:
+airscan  hplip
+
+/etc/security:
+access.conf	 group.conf   namespace.conf  opasswd	      sepermit.conf
+capability.conf  limits.conf  namespace.d     pam_env.conf    time.conf
+faillock.conf	 limits.d     namespace.init  pwquality.conf
+
+/etc/security/limits.d:
+
+/etc/security/namespace.d:
+
+/etc/selinux:
+semanage.conf
+
+/etc/sensors.d:
+
+/etc/sgml:
+catalog  docbook-xml  docbook-xml.cat  sgml-data.cat  xml-core.cat
+
+/etc/sgml/docbook-xml:
+4.0  4.1.2  4.2  4.3  4.4  4.5
+
+/etc/sgml/docbook-xml/4.0:
+dbgenent.ent
+
+/etc/sgml/docbook-xml/4.1.2:
+dbgenent.mod
+
+/etc/sgml/docbook-xml/4.2:
+dbgenent.mod
+
+/etc/sgml/docbook-xml/4.3:
+dbgenent.mod
+
+/etc/sgml/docbook-xml/4.4:
+dbgenent.mod
+
+/etc/sgml/docbook-xml/4.5:
+dbgenent.mod
+
+/etc/skel:
+
+/etc/snmp:
+snmp.conf
+
+/etc/speech-dispatcher:
+clients  modules  speechd.conf
+
+/etc/speech-dispatcher/clients:
+emacs.conf
+
+/etc/speech-dispatcher/modules:
+cicero.conf		    espeak-ng-mbrola-generic.conf
+dtk-generic.conf	    festival.conf
+epos-generic.conf	    flite.conf
+espeak.conf		    llia_phon-generic.conf
+espeak-mbrola-generic.conf  mary-generic.conf
+espeak-ng.conf		    swift-generic.conf
+espeak-ng-mbrola.conf
+
+/etc/ssh:
+moduli	      sshd_config.d	      ssh_host_ed25519_key.pub
+ssh_config    ssh_host_ecdsa_key      ssh_host_rsa_key
+ssh_config.d  ssh_host_ecdsa_key.pub  ssh_host_rsa_key.pub
+sshd_config   ssh_host_ed25519_key    ssh_import_id
+
+/etc/ssh/ssh_config.d:
+
+/etc/ssh/sshd_config.d:
+
+/etc/ssl:
+certs  openssl.cnf  private
+
+/etc/ssl/certs:
+ 002c0b4f.0
+ 02265526.0
+ 03179a64.0
+ 062cdee6.0
+ 064e0aa9.0
+ 06dc52d5.0
+ 09789157.0
+ 0a775a30.0
+ 0b1b94ef.0
+ 0bf05006.0
+ 0c31d5ce.0
+ 0f5dc4f3.0
+ 0f6fa695.0
+ 1001acf7.0
+ 106f3e4d.0
+ 14bc7599.0
+ 1636090b.0
+ 18856ac4.0
+ 1c7314a2.0
+ 1d3472b9.0
+ 1e08bfd1.0
+ 1e09d511.0
+ 244b5494.0
+ 2923b3f9.0
+ 2ae6433e.0
+ 2b349938.0
+ 32888f65.0
+ 349f2832.0
+ 3513523f.0
+ 3bde41ac.0
+ 3e44d2f7.0
+ 3e45d192.0
+ 3fb36b73.0
+ 40193066.0
+ 4042bcee.0
+ 40547a79.0
+ 406c9bb1.0
+ 4304c5e5.0
+ 48bec511.0
+ 4a6481c9.0
+ 4b718d9b.0
+ 4bfab552.0
+ 4f316efb.0
+ 5273a94c.0
+ 5443e9e3.0
+ 54657681.0
+ 57bcb2da.0
+ 5ad8a5d6.0
+ 5cd81ad7.0
+ 5d3033c5.0
+ 5e98733a.0
+ 5f15c80c.0
+ 5f618aec.0
+ 607986c7.0
+ 626dceaf.0
+ 653b494a.0
+ 68dd7389.0
+ 6b99d060.0
+ 6d41d539.0
+ 6fa5da56.0
+ 706f604c.0
+ 749e9e03.0
+ 75d1b2ed.0
+ 76cb8f92.0
+ 76faf6c0.0
+ 7719f463.0
+ 773e07ad.0
+ 7aaf71c0.0
+ 7f3d5d1d.0
+ 8160b96c.0
+ 8cb5ee0f.0
+ 8d86cdd1.0
+ 8d89cda1.0
+ 930ac5d2.0
+ 93bc0acc.0
+ 9482e63a.0
+ 988a38cb.0
+ 9b5697b0.0
+ 9c8dfbd4.0
+ 9d04f354.0
+ a3418fda.0
+ a94d09e5.0
+ ACCVRAIZ1.pem
+ AC_RAIZ_FNMT-RCM.pem
+ AC_RAIZ_FNMT-RCM_SERVIDORES_SEGUROS.pem
+ Actalis_Authentication_Root_CA.pem
+ aee5f10d.0
+ AffirmTrust_Commercial.pem
+ AffirmTrust_Networking.pem
+ AffirmTrust_Premium_ECC.pem
+ AffirmTrust_Premium.pem
+ Amazon_Root_CA_1.pem
+ Amazon_Root_CA_2.pem
+ Amazon_Root_CA_3.pem
+ Amazon_Root_CA_4.pem
+ ANF_Secure_Server_Root_CA.pem
+ Atos_TrustedRoot_2011.pem
+ Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem
+ b0e59380.0
+ b1159c4c.0
+ b433981b.0
+ b66938e9.0
+ b727005e.0
+ b7a5b843.0
+ b81b93f0.0
+ Baltimore_CyberTrust_Root.pem
+ bf53fb88.0
+ Buypass_Class_2_Root_CA.pem
+ Buypass_Class_3_Root_CA.pem
+ c01eb047.0
+ c28a8a30.0
+ ca6e4ad9.0
+ ca-certificates.crt
+ CA_Disig_Root_R2.pem
+ cbf06781.0
+ cc450945.0
+ cd58d51e.0
+ cd8c0d63.0
+ ce5e74ef.0
+ Certigna.pem
+ Certigna_Root_CA.pem
+ certSIGN_Root_CA_G2.pem
+ certSIGN_ROOT_CA.pem
+ Certum_EC-384_CA.pem
+ Certum_Trusted_Network_CA_2.pem
+ Certum_Trusted_Network_CA.pem
+ Certum_Trusted_Root_CA.pem
+ CFCA_EV_ROOT.pem
+ Comodo_AAA_Services_root.pem
+ COMODO_Certification_Authority.pem
+ COMODO_ECC_Certification_Authority.pem
+ COMODO_RSA_Certification_Authority.pem
+ Cybertrust_Global_Root.pem
+ d4dae3dd.0
+ d6325660.0
+ d7e8dc79.0
+ d887a5bb.0
+ dc4d6a89.0
+ dd8e9d41.0
+ de6d66f3.0
+ DigiCert_Assured_ID_Root_CA.pem
+ DigiCert_Assured_ID_Root_G2.pem
+ DigiCert_Assured_ID_Root_G3.pem
+ DigiCert_Global_Root_CA.pem
+ DigiCert_Global_Root_G2.pem
+ DigiCert_Global_Root_G3.pem
+ DigiCert_High_Assurance_EV_Root_CA.pem
+ DigiCert_Trusted_Root_G4.pem
+ D-TRUST_Root_Class_3_CA_2_2009.pem
+ D-TRUST_Root_Class_3_CA_2_EV_2009.pem
+ e113c810.0
+ e18bfb83.0
+ e35234b1.0
+ e36a6752.0
+ e73d606e.0
+ e868b802.0
+ e8de2f56.0
+ EC-ACC.pem
+ ee64a828.0
+ eed8c118.0
+ ef954a4e.0
+ emSign_ECC_Root_CA_-_C3.pem
+ emSign_ECC_Root_CA_-_G3.pem
+ emSign_Root_CA_-_C1.pem
+ emSign_Root_CA_-_G1.pem
+ Entrust.net_Premium_2048_Secure_Server_CA.pem
+ Entrust_Root_Certification_Authority_-_EC1.pem
+ Entrust_Root_Certification_Authority_-_G2.pem
+ Entrust_Root_Certification_Authority_-_G4.pem
+ Entrust_Root_Certification_Authority.pem
+ ePKI_Root_Certification_Authority.pem
+ e-Szigno_Root_CA_2017.pem
+ E-Tugra_Certification_Authority.pem
+ f081611a.0
+ f0c70a8d.0
+ f249de83.0
+ f30dd6ad.0
+ f3377b1b.0
+ f387163d.0
+ f39fc864.0
+ f51bb24c.0
+ fa5da96b.0
+ fc5a8f99.0
+ fe8a2cd8.0
+ feffd413.0
+ ff34af3f.0
+ GDCA_TrustAUTH_R5_ROOT.pem
+ GlobalSign_ECC_Root_CA_-_R4.pem
+ GlobalSign_ECC_Root_CA_-_R5.pem
+ GlobalSign_Root_CA.pem
+ GlobalSign_Root_CA_-_R2.pem
+ GlobalSign_Root_CA_-_R3.pem
+ GlobalSign_Root_CA_-_R6.pem
+ GlobalSign_Root_E46.pem
+ GlobalSign_Root_R46.pem
+ GLOBALTRUST_2020.pem
+ Go_Daddy_Class_2_CA.pem
+ Go_Daddy_Root_Certificate_Authority_-_G2.pem
+ GTS_Root_R1.pem
+ GTS_Root_R2.pem
+ GTS_Root_R3.pem
+ GTS_Root_R4.pem
+ Hellenic_Academic_and_Research_Institutions_ECC_RootCA_2015.pem
+ Hellenic_Academic_and_Research_Institutions_RootCA_2011.pem
+ Hellenic_Academic_and_Research_Institutions_RootCA_2015.pem
+ Hongkong_Post_Root_CA_1.pem
+ Hongkong_Post_Root_CA_3.pem
+ IdenTrust_Commercial_Root_CA_1.pem
+ IdenTrust_Public_Sector_Root_CA_1.pem
+ ISRG_Root_X1.pem
+ Izenpe.com.pem
+ Microsec_e-Szigno_Root_CA_2009.pem
+ Microsoft_ECC_Root_Certificate_Authority_2017.pem
+ Microsoft_RSA_Root_Certificate_Authority_2017.pem
+ NAVER_Global_Root_Certification_Authority.pem
+'NetLock_Arany_=Class_Gold=_Főtanúsítvány.pem'
+ Network_Solutions_Certificate_Authority.pem
+ OISTE_WISeKey_Global_Root_GB_CA.pem
+ OISTE_WISeKey_Global_Root_GC_CA.pem
+ QuoVadis_Root_CA_1_G3.pem
+ QuoVadis_Root_CA_2_G3.pem
+ QuoVadis_Root_CA_2.pem
+ QuoVadis_Root_CA_3_G3.pem
+ QuoVadis_Root_CA_3.pem
+ Secure_Global_CA.pem
+ SecureSign_RootCA11.pem
+ SecureTrust_CA.pem
+ Security_Communication_RootCA2.pem
+ Security_Communication_Root_CA.pem
+ ssl-cert-snakeoil.pem
+ SSL.com_EV_Root_Certification_Authority_ECC.pem
+ SSL.com_EV_Root_Certification_Authority_RSA_R2.pem
+ SSL.com_Root_Certification_Authority_ECC.pem
+ SSL.com_Root_Certification_Authority_RSA.pem
+ Staat_der_Nederlanden_EV_Root_CA.pem
+ Starfield_Class_2_CA.pem
+ Starfield_Root_Certificate_Authority_-_G2.pem
+ Starfield_Services_Root_Certificate_Authority_-_G2.pem
+ SwissSign_Gold_CA_-_G2.pem
+ SwissSign_Silver_CA_-_G2.pem
+ SZAFIR_ROOT_CA2.pem
+ TeliaSonera_Root_CA_v1.pem
+ TrustCor_ECA-1.pem
+ TrustCor_RootCert_CA-1.pem
+ TrustCor_RootCert_CA-2.pem
+ Trustwave_Global_Certification_Authority.pem
+ Trustwave_Global_ECC_P256_Certification_Authority.pem
+ Trustwave_Global_ECC_P384_Certification_Authority.pem
+ T-TeleSec_GlobalRoot_Class_2.pem
+ T-TeleSec_GlobalRoot_Class_3.pem
+ TUBITAK_Kamu_SM_SSL_Kok_Sertifikasi_-_Surum_1.pem
+ TWCA_Global_Root_CA.pem
+ TWCA_Root_Certification_Authority.pem
+ UCA_Extended_Validation_Root.pem
+ UCA_Global_G2_Root.pem
+ USERTrust_ECC_Certification_Authority.pem
+ USERTrust_RSA_Certification_Authority.pem
+ XRamp_Global_CA_Root.pem
+ls: невозможно открыть каталог '/etc/ssl/private': Отказано в доступе
+
+/etc/sudoers.d:
+README
+
+/etc/sysctl.d:
+10-console-messages.conf  10-magic-sysrq.conf	    10-zeropage.conf
+10-ipv6-privacy.conf	  10-network-security.conf  99-sysctl.conf
+10-kernel-hardening.conf  10-ptrace.conf	    README.sysctl
+
+/etc/systemd:
+journald.conf  networkd.conf  resolved.conf  system.conf     user.conf
+logind.conf    oomd.conf      sleep.conf     timesyncd.conf
+network        pstore.conf    system	     user
+
+/etc/systemd/network:
+
+/etc/systemd/system:
+ bluetooth.target.wants
+ cloud-final.service.wants
+ dbus-fi.w1.wpa_supplicant1.service
+ dbus-org.bluez.service
+ dbus-org.freedesktop.Avahi.service
+ dbus-org.freedesktop.ModemManager1.service
+ dbus-org.freedesktop.nm-dispatcher.service
+ dbus-org.freedesktop.oom1.service
+ dbus-org.freedesktop.resolve1.service
+ dbus-org.freedesktop.thermald.service
+ dbus-org.freedesktop.timesync1.service
+ default.target.wants
+ display-manager.service
+ display-manager.service.wants
+ emergency.target.wants
+ final.target.wants
+ getty.target.wants
+ graphical.target.wants
+ multi-user.target.wants
+ network-online.target.wants
+ oem-config.service.wants
+ open-vm-tools.service.requires
+ paths.target.wants
+ printer.target.wants
+ rescue.target.wants
+ sleep.target.wants
+ snap-bare-5.mount
+ snap-core20-1587.mount
+ snap-core20-1623.mount
+ snap-firefox-1883.mount
+ snap-firefox-1943.mount
+'snap-gnome\x2d3\x2d38\x2d2004-115.mount'
+'snap-gnome\x2d3\x2d38\x2d2004-119.mount'
+'snap-gtk\x2dcommon\x2dthemes-1535.mount'
+ snap-snapd-16778.mount
+ snap-snapd-17029.mount
+'snap-snapd\x2ddesktop\x2dintegration-14.mount'
+'snap-snap\x2dstore-592.mount'
+'snap-snap\x2dstore-599.mount'
+ sockets.target.wants
+ sshd.service
+ sudo.service
+ sysinit.target.wants
+ syslog.service
+ timers.target.wants
+'var-snap-firefox-common-host\x2dhunspell.mount'
+ vmtoolsd.service
+
+/etc/systemd/system/bluetooth.target.wants:
+bluetooth.service
+
+/etc/systemd/system/cloud-final.service.wants:
+snapd.seeded.service
+
+/etc/systemd/system/default.target.wants:
+ snap-core20-1623.mount
+ snap-firefox-1883.mount
+ snap-firefox-1943.mount
+'snap-gnome\x2d3\x2d38\x2d2004-115.mount'
+'snap-gnome\x2d3\x2d38\x2d2004-119.mount'
+ snap-snapd-16778.mount
+ snap-snapd-17029.mount
+'snap-snap\x2dstore-592.mount'
+'snap-snap\x2dstore-599.mount'
+'var-snap-firefox-common-host\x2dhunspell.mount'
+
+/etc/systemd/system/display-manager.service.wants:
+gpu-manager.service
+
+/etc/systemd/system/emergency.target.wants:
+grub-initrd-fallback.service
+
+/etc/systemd/system/final.target.wants:
+snapd.system-shutdown.service
+
+/etc/systemd/system/getty.target.wants:
+getty@tty1.service
+
+/etc/systemd/system/graphical.target.wants:
+accounts-daemon.service        switcheroo-control.service
+power-profiles-daemon.service  udisks2.service
+
+/etc/systemd/system/multi-user.target.wants:
+ anacron.service
+ avahi-daemon.service
+ console-setup.service
+ cron.service
+ cups-browsed.service
+ cups.path
+ cups.service
+ dmesg.service
+ e2scrub_reap.service
+ grub-common.service
+ grub-initrd-fallback.service
+ irqbalance.service
+ kerneloops.service
+ ModemManager.service
+ networkd-dispatcher.service
+ NetworkManager.service
+ open-vm-tools.service
+ openvpn.service
+ remote-fs.target
+ rsyslog.service
+'run-vmblock\x2dfuse.mount'
+ secureboot-db.service
+ snap-bare-5.mount
+ snap-core20-1587.mount
+ snap-core20-1623.mount
+ snapd.apparmor.service
+ snapd.autoimport.service
+ snapd.core-fixup.service
+ snapd.recovery-chooser-trigger.service
+ snapd.seeded.service
+ snapd.service
+ snap-firefox-1883.mount
+ snap-firefox-1943.mount
+'snap-gnome\x2d3\x2d38\x2d2004-115.mount'
+'snap-gnome\x2d3\x2d38\x2d2004-119.mount'
+'snap-gtk\x2dcommon\x2dthemes-1535.mount'
+ snap-snapd-16778.mount
+ snap-snapd-17029.mount
+'snap-snapd\x2ddesktop\x2dintegration-14.mount'
+'snap-snap\x2dstore-592.mount'
+'snap-snap\x2dstore-599.mount'
+ ssh.service
+ systemd-oomd.service
+ systemd-resolved.service
+ thermald.service
+ ua-reboot-cmds.service
+ ubuntu-advantage.service
+ ufw.service
+ unattended-upgrades.service
+'var-snap-firefox-common-host\x2dhunspell.mount'
+ whoopsie.path
+ wpa_supplicant.service
+
+/etc/systemd/system/network-online.target.wants:
+NetworkManager-wait-online.service
+
+/etc/systemd/system/oem-config.service.wants:
+gpu-manager.service
+
+/etc/systemd/system/open-vm-tools.service.requires:
+vgauth.service
+
+/etc/systemd/system/paths.target.wants:
+acpid.path  apport-autoreport.path
+
+/etc/systemd/system/printer.target.wants:
+cups.service
+
+/etc/systemd/system/rescue.target.wants:
+grub-initrd-fallback.service
+
+/etc/systemd/system/sleep.target.wants:
+grub-common.service  grub-initrd-fallback.service
+
+/etc/systemd/system/sockets.target.wants:
+acpid.socket	       avahi-daemon.socket  snapd.socket
+apport-forward.socket  cups.socket	    uuidd.socket
+
+/etc/systemd/system/sysinit.target.wants:
+apparmor.service	setvtrgb.service	systemd-timesyncd.service
+keyboard-setup.service	systemd-pstore.service
+
+/etc/systemd/system/timers.target.wants:
+anacron.timer		 e2scrub_all.timer    motd-news.timer
+apport-autoreport.timer  fstrim.timer	      snapd.snap-repair.timer
+apt-daily.timer		 fwupd-refresh.timer  ua-timer.timer
+apt-daily-upgrade.timer  logrotate.timer      update-notifier-download.timer
+dpkg-db-backup.timer	 man-db.timer	      update-notifier-motd.timer
+
+/etc/systemd/user:
+default.target.wants
+gnome-session.target.wants
+graphical-session-pre.target.wants
+pipewire.service.wants
+pipewire-session-manager.service
+snap.snapd-desktop-integration.snapd-desktop-integration.service
+sockets.target.wants
+
+/etc/systemd/user/default.target.wants:
+pipewire.service
+pulseaudio.service
+snap.snapd-desktop-integration.snapd-desktop-integration.service
+tracker-extract-3.service
+ubuntu-report.path
+
+/etc/systemd/user/gnome-session.target.wants:
+org.freedesktop.IBus.session.GNOME.service  tracker-miner-fs-3.service
+
+/etc/systemd/user/graphical-session-pre.target.wants:
+gnome-keyring.service	   xdg-desktop-portal-rewrite-launchers.service
+session-migration.service
+
+/etc/systemd/user/pipewire.service.wants:
+pipewire-media-session.service
+
+/etc/systemd/user/sockets.target.wants:
+dirmngr.socket		  gpg-agent.socket	pk-debconf-helper.socket
+gpg-agent-browser.socket  gpg-agent-ssh.socket	pulseaudio.socket
+gpg-agent-extra.socket	  pipewire.socket
+
+/etc/terminfo:
+README
+
+/etc/thermald:
+thermal-cpu-cdev-order.xml
+
+/etc/thunderbird:
+syspref.js
+
+/etc/tmpfiles.d:
+
+/etc/ubuntu-advantage:
+help_data.yaml	uaclient.conf
+
+/etc/udev:
+hwdb.d	rules.d  udev.conf
+
+/etc/udev/hwdb.d:
+
+/etc/udev/rules.d:
+70-snap.firefox.rules			 70-snap.snapd.rules
+70-snap.snapd-desktop-integration.rules  70-snap.snap-store.rules
+
+/etc/udisks2:
+mount_options.conf.example  udisks2.conf
+
+/etc/ufw:
+after6.rules  applications.d  before.rules  user6.rules
+after.init    before6.rules   sysctl.conf   user.rules
+after.rules   before.init     ufw.conf
+
+/etc/ufw/applications.d:
+cups  openssh-server
+
+/etc/update-manager:
+meta-release  release-upgrades	release-upgrades.d
+
+/etc/update-manager/release-upgrades.d:
+ubuntu-advantage-upgrades.cfg
+
+/etc/update-motd.d:
+00-header     88-esm-announce		 92-unattended-upgrades
+10-help-text  90-updates-available	 95-hwe-eol
+50-motd-news  91-contract-ua-esm-status  98-fsck-at-reboot
+85-fwupd      91-release-upgrade	 98-reboot-required
+
+/etc/update-notifier:
+
+/etc/UPower:
+UPower.conf
+
+/etc/usb_modeswitch.d:
+
+/etc/vim:
+vimrc  vimrc.tiny
+
+/etc/vmware-tools:
+poweroff-vm-default  scripts		 tools.conf	     vgauth.conf
+poweron-vm-default   statechange.subr	 tools.conf.example  xautostart.conf
+resume-vm-default    suspend-vm-default  vgauth
+
+/etc/vmware-tools/scripts:
+vmware
+
+/etc/vmware-tools/scripts/vmware:
+network
+
+/etc/vmware-tools/vgauth:
+schemas
+
+/etc/vmware-tools/vgauth/schemas:
+catalog.xml		       XMLSchema.dtd
+datatypes.dtd		       XMLSchema-hasFacetAndProperty.xsd
+saml-schema-assertion-2.0.xsd  XMLSchema-instance.xsd
+xenc-schema.xsd		       XMLSchema.xsd
+xmldsig-core-schema.xsd        xml.xsd
+
+/etc/vulkan:
+explicit_layer.d  icd.d  implicit_layer.d
+
+/etc/vulkan/explicit_layer.d:
+
+/etc/vulkan/icd.d:
+
+/etc/vulkan/implicit_layer.d:
+
+/etc/wpa_supplicant:
+action_wpa.sh  functions.sh  ifupdown.sh
+
+/etc/X11:
+app-defaults		 xinit	      Xresources	XvMCConfig
+cursors			 xkb	      Xsession		Xwrapper.config
+default-display-manager  xorg.conf.d  Xsession.d
+fonts			 Xreset       Xsession.options
+rgb.txt			 Xreset.d     xsm
+
+/etc/X11/app-defaults:
+Bitmap	       Viewres-color  Xditview	      Xgc-color    Xmessage-color
+Bitmap-color   XCalc	      Xditview-chrtr  XLoad	   XMore
+Bitmap-nocase  XCalc-color    Xedit	      XLogo	   XSm
+Clock-color    XClipboard     Xedit-color     XLogo-color  Xvidtune
+Editres        XClock	      Xfd	      Xmag
+Editres-color  XClock-color   XFontSel	      Xman
+Viewres        XConsole       Xgc	      Xmessage
+
+/etc/X11/cursors:
+core.theme  handhelds.theme  redglass.theme  whiteglass.theme
+
+/etc/X11/fonts:
+misc  Type1
+
+/etc/X11/fonts/misc:
+xfonts-base.alias
+
+/etc/X11/fonts/Type1:
+xfonts-scalable.scale
+
+/etc/X11/xinit:
+xinitrc  xinputrc  xserverrc
+
+/etc/X11/xkb:
+
+/etc/X11/xorg.conf.d:
+
+/etc/X11/Xreset.d:
+README
+
+/etc/X11/Xresources:
+x11-common
+
+/etc/X11/Xsession.d:
+20dbus_xdg-runtime		70im-config_launch
+20x11-common_process-args	90atk-adaptor
+30x11-common_xresources		90gpg-agent
+35x11-common_xhost-local	90qt-a11y
+40x11-common_xsessionrc		90x11-common_ssh-agent
+50x11-common_determine-startup	90xbrlapi
+55gnome-session_gnomerc		99x11-common_start
+60x11-common_xdg_path
+
+/etc/X11/xsm:
+system.xsm
+
+/etc/xdg:
+autostart  systemd	   user-dirs.defaults
+menus	   user-dirs.conf  Xwayland-session.d
+
+/etc/xdg/autostart:
+at-spi-dbus-bus.desktop
+geoclue-demo-agent.desktop
+gnome-initial-setup-copy-worker.desktop
+gnome-initial-setup-first-login.desktop
+gnome-keyring-pkcs11.desktop
+gnome-keyring-secrets.desktop
+gnome-keyring-ssh.desktop
+gnome-shell-overrides-migration.desktop
+im-launch.desktop
+nm-applet.desktop
+orca-autostart.desktop
+org.gnome.DejaDup.Monitor.desktop
+org.gnome.Evolution-alarm-notify.desktop
+org.gnome.SettingsDaemon.A11ySettings.desktop
+org.gnome.SettingsDaemon.Color.desktop
+org.gnome.SettingsDaemon.Datetime.desktop
+org.gnome.SettingsDaemon.DiskUtilityNotify.desktop
+org.gnome.SettingsDaemon.Housekeeping.desktop
+org.gnome.SettingsDaemon.Keyboard.desktop
+org.gnome.SettingsDaemon.MediaKeys.desktop
+org.gnome.SettingsDaemon.Power.desktop
+org.gnome.SettingsDaemon.PrintNotifications.desktop
+org.gnome.SettingsDaemon.Rfkill.desktop
+org.gnome.SettingsDaemon.ScreensaverProxy.desktop
+org.gnome.SettingsDaemon.Sharing.desktop
+org.gnome.SettingsDaemon.Smartcard.desktop
+org.gnome.SettingsDaemon.Sound.desktop
+org.gnome.SettingsDaemon.UsbProtection.desktop
+org.gnome.SettingsDaemon.Wacom.desktop
+org.gnome.SettingsDaemon.Wwan.desktop
+org.gnome.SettingsDaemon.XSettings.desktop
+print-applet.desktop
+pulseaudio.desktop
+snap-userd-autostart.desktop
+spice-vdagent.desktop
+tracker-miner-fs-3.desktop
+ubuntu-advantage-notification.desktop
+ubuntu-report-on-upgrade.desktop
+update-notifier.desktop
+user-dirs-update-gtk.desktop
+vmware-user.desktop
+xdg-user-dirs.desktop
+
+/etc/xdg/menus:
+gnome-applications.menu
+
+/etc/xdg/systemd:
+user
+
+/etc/xdg/Xwayland-session.d:
+00-at-spi  00-pulseaudio-x11  00-xrdb  10-ibus-x11
+
+/etc/xml:
+catalog      docbook-xml.xml	  sgml-data.xml      xml-core.xml
+catalog.old  docbook-xml.xml.old  sgml-data.xml.old  xml-core.xml.old
+
+Script done on 2022-10-13 19:54:57+03:00 [COMMAND_EXIT_CODE="1"]
